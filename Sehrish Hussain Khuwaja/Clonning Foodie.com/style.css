@@ -1,0 +1,9 @@
+.navbar-brand{
+    background-image: url(./logo\ food.jpg);
+    height: 20px;
+    width: 20px;
+}
+
+.card-title{
+    color: rgb(12, 10, 10);
+}
